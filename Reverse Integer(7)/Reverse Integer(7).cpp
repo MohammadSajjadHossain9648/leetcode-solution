@@ -14,7 +14,7 @@ public:
     }
 };
 
-//or can be write
+//or can be write another way
 
 class Solution {
 public:
