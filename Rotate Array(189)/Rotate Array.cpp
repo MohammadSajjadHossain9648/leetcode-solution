@@ -1,9 +1,11 @@
 #include<iostream>
 #include<vector>
 using namespace std;
+
 /*
     link: https://leetcode.com/problems/rotate-array/
 */
+
 void rotate_vector(vector<int>& vec, int k)
 {
     vector<int> temp(vec.size());
